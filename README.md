@@ -23,7 +23,7 @@ The exercise is divided between the following steps:
 
 ## Constraints
 
-Please, use the [French Government Design System][] for styling (also see [dev doc](https://gouvfr.atlassian.net/wiki/spaces/DB/pages/223019574/D+veloppeurs)).
+Please, use the [French Government Design System][] for styling (also see [dev doc](https://www.systeme-de-design.gouv.fr/utilisation-et-organisation/developpeurs/prise-en-main/)).
 
 ## Usage
 
@@ -40,5 +40,5 @@ flask run
 You can curl `localhost:5000/api/dummy-hash` to make sure everything works properly.
 
 [vue.js]: https://vuejs.org/
-[flask]: https://flask.palletsprojects.com/en/2.0.x/
+[flask]: https://flask.palletsprojects.com/en/latest/
 [French Government Design System]: https://www.systeme-de-design.gouv.fr/
